@@ -1,2 +1,2 @@
-# TetrisWorld
-Tetris game to play in your browser
+# MineSweeper
+A simple mine sweeper game to play in your browser
